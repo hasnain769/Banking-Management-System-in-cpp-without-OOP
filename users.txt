@@ -1,0 +1,7 @@
+123     123     hasnain     1200
+111     111     moeez     9870
+222     222     areesha     876
+333     333     zeemama     6579
+999     999     anyone     12334
+143     5444     name     1000
+1234     1234     happy     80
